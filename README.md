@@ -1,4 +1,8 @@
 ### Hi there 👋
+- :school: I’m currently PhD candidate in Tongji Univeristy, and interested in biomedical informatics.
+- 🌱 I’m currently working on Philips Research China as a NLP intern.
+- 😄 I’m looking for new opportunities。
+
 
 <!--
 **zonghui0228/zonghui0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
