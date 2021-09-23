@@ -1,7 +1,7 @@
 ### Hi there 👋
-- :mortar_board: I’m currently a PhD candidate in Tongji Univeristy, and interested in biomedical informatics.
-- :palm_tree: I’m currently working on Philips Research China as a BioMed NLP intern.
-- :four_leaf_clover: I’m currently looking for new opportunities.
+- 🎓 I’m currently a PhD candidate in Tongji Univeristy, and interested in biomedical informatics.
+- 🎄 I’m currently working on Philips Research China as a BioMed NLP intern.
+- ✨ I’m currently looking for new opportunities.
 
 
 <!--
