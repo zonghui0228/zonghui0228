@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 I’m currently a PhD candidate in Tongji Univeristy, and interested in biomedical informatics.
-- 🎄 I’m currently working on Philips Research China as a BioMed NLP intern.
+- 🌱 I’m currently working on Philips Research China as a BioMed NLP intern.
 - ✨ I’m currently looking for new opportunities.
 
 
