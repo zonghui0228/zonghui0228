@@ -1,6 +1,6 @@
-- 🎓 I’m currently a PhD candidate in Tongji Univeristy, and interested in biomedical informatics.
-- 🌱 I’m currently working at Philips Research China as a BioMed NLP intern.
-- ✨ I’m currently looking for 😄.
+- 🎓 I completed my PhD in Tongji Univeristy, and majoring in biomedical informatics.
+- ✨ I’m currently working at Philips Research China as NLP and data scientist.
+- 🌱 I’m currently looking for 😄.
 
 
 <!--
